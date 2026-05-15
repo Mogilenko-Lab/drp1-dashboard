@@ -1,0 +1,16 @@
+The content of this repository — the landing page, the interactive dashboard,
+and the underlying figure — is licensed under the Creative Commons
+Attribution 4.0 International License (CC-BY-4.0).
+
+Full legal text: https://creativecommons.org/licenses/by/4.0/legalcode
+Human-readable summary: https://creativecommons.org/licenses/by/4.0/
+
+Attribution should cite:
+
+  Baum T., Bodnya C., Costanzo J., Boulton D., Mogilenko D., Caino M.C.,
+  Zhelonkin A.*, and Gama V.* (2025). Resubmitted to the Journal of
+  Neurodevelopmental Disorders.
+  Archived snapshot: https://doi.org/10.5281/zenodo.20213748
+
+The bundled Plotly.js runtime (plotly-*.min.js) is distributed by Plotly, Inc.
+under the MIT License and retains its upstream copyright and license terms.

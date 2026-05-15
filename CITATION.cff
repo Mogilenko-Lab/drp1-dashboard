@@ -1,0 +1,52 @@
+cff-version: 1.2.0
+message: "If you use this dashboard or its underlying analysis, please cite the paper and the archived snapshot."
+type: software
+title: "Interactive trajectory dashboard for Baum et al. 2025 (DRP1 bulk RNA-seq)"
+abstract: "Interactive bump-chart figure accompanying Baum et al. 2025, exploring bulk RNA-seq trajectories in the DRP1 study."
+authors:
+  - family-names: Baum
+    given-names: T.
+  - family-names: Bodnya
+    given-names: C.
+  - family-names: Costanzo
+    given-names: J.
+  - family-names: Boulton
+    given-names: D.
+  - family-names: Mogilenko
+    given-names: D.
+  - family-names: Caino
+    given-names: M.C.
+  - family-names: Zhelonkin
+    given-names: A.
+  - family-names: Gama
+    given-names: V.
+year: 2025
+license: CC-BY-4.0
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.20213748
+    description: "Zenodo concept DOI (always resolves to the latest snapshot)."
+url: "https://drp1.omicable.com/"
+preferred-citation:
+  type: article
+  title: "[Title to be updated on acceptance]"
+  authors:
+    - family-names: Baum
+      given-names: T.
+    - family-names: Bodnya
+      given-names: C.
+    - family-names: Costanzo
+      given-names: J.
+    - family-names: Boulton
+      given-names: D.
+    - family-names: Mogilenko
+      given-names: D.
+    - family-names: Caino
+      given-names: M.C.
+    - family-names: Zhelonkin
+      given-names: A.
+    - family-names: Gama
+      given-names: V.
+  journal: "Journal of Neurodevelopmental Disorders"
+  year: 2025
+  notes: "Resubmitted; not yet published. Update on acceptance with volume, pages, and DOI."
